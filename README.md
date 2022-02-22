@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @StevaryBosuben
+- 👋 Hi, I’m @bstevary
 - 👀 I’m interested in java, html, css, javascript, c++ and sql database
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on system development in java
