@@ -15,7 +15,7 @@
 [![Linkedin: Stevary Bosuben](https://img.shields.io/badge/-bstevary-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bstevary/)](https://www.linkedin.com/in/bstevary/)
 [![Facebook: Stevary Bosuben](https://img.shields.io/badge/-bstevary-bluesky?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/bstevary/)](https://www.facebook.com/bstevary/)
 [![Instagram: Stevary Bosuben](https://img.shields.io/badge/-bstevary-brown?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/bstevary/)](https://www.instagram.com/bstevary)
-[![Whatsapp: Stevary Bosuben](https://img.shields.io/badge/-+254112446045-steal?style=flat-square&logo=Whatsapp&logoColor=white&link=https://www.instagram.com/bstevary/)](https://www.instagram.com/bstevary)
+[![Whatsapp: Stevary Bosuben](https://img.shields.io/badge/-+254112446045-steal?style=flat-square&logo=Whatsapp&logoColor=white&link=https://wa.link/a5yo7u/)](https://wa.link/a5yo7u)
 [![Youtube: bstevary](https://img.shields.io/badge/-bstevary-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCjSpxsr1y25pqTxUQerrdPw/)](https://www.youtube.com/channel/UCjSpxsr1y25pqTxUQerrdPw)
 [![GitHub bstevary](https://img.shields.io/github/followers/bstevary?label=follow&style=social)](https://github.com/bstevary)
 - 🌱 I’m Software Engineering Student at Kisii Uiversity.
