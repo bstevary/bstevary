@@ -7,11 +7,12 @@
 
 --->
 <p align="center">
-  <img src="https://github.com/bstevary/bstevary/blob/main/STEVARY.gif"  width="100" title="bstevary">
+  <img src="https://github.com/bstevary/bstevary/blob/main/STEVARY.gif"   title="bstevary">
 </p>
 
 [![Twitter: Stevary Bosuben](https://img.shields.io/twitter/follow/bstevary?style=social)](https://twitter.com/bstevary)
 [![Linkedin: Stevary Bosuben](https://img.shields.io/badge/-bstevary-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bstevary/)](https://www.linkedin.com/in/bstevary/)
+[![Facebook: Stevary Bosuben](https://img.shields.io/badge/-bstevary-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/bstevary/)](https://www.facebook.com/bstevary/)
 [![GitHub bstevary](https://img.shields.io/github/followers/bstevary?label=follow&style=social)](https://github.com/bstevary)
 - 🌱 I’m Software Engineering Student at Kisii Uiversity.
 - 👯 I’m looking to collaborate on any project.
