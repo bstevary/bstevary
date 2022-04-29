@@ -10,7 +10,7 @@
  ​</p>
 
  ​[![​Twitter: Stevary Bosuben​](https://img.shields.io/twitter/follow/bstevary?style=social)](https://twitter.com/bstevary)
- ​[![​Linkedin: Stevary Bosuben​](https://img.shields.io/badge/-Filmawit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bstevary/)](https://www.linkedin.com/in/bstevary/)
+ ​[![​Linkedin: Stevary Bosuben​](https://img.shields.io/badge/-bstevary-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bstevary/)](https://www.linkedin.com/in/bstevary/)
  ​[![​GitHub fila2021​](https://img.shields.io/github/followers/bstevary?label=follow&style=social)](https://github.com/bstevary)
  ​-​ 🌱 I’m Software Engineering Student at ALX Africa and KISII UNIVERSITY
  ​-​ 👯 I’m looking to collaborate on any project.
