@@ -7,7 +7,7 @@
 
 --->
 <p align="center">
-  <img src="https://github.com/bstevary/bstevary/blob/main/STEVARY.gif" title="bstevary">
+  <img src="https://github.com/bstevary/bstevary/blob/main/STEVARY.gif" width="1584" title="bstevary">
 </p>
 
 [![Twitter: Stevary Bosuben](https://img.shields.io/twitter/follow/bstevary?style=social)](https://twitter.com/bstevary)
