@@ -7,7 +7,7 @@
 
 --->
 <p align="center">
-  <img src="https://github.com/fila2021/fila2021/blob/main/back.jpg" title="hover text">
+  <img src="https://github.com/bstevary/bstevary/blob/main/background.jpg" title="bstevary">
 </p>
 
 [![Twitter: Stevary Bosuben](https://img.shields.io/twitter/follow/bstevary?style=social)](https://twitter.com/bstevary)
