@@ -13,9 +13,9 @@
 
 [![Twitter: Stevary Bosuben](https://img.shields.io/twitter/follow/bstevary?style=social)](https://twitter.com/bstevary)
 [![Linkedin: Stevary Bosuben](https://img.shields.io/badge/-bstevary-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bstevary/)](https://www.linkedin.com/in/bstevary/)
-[![Facebook: Stevary Bosuben](https://img.shields.io/badge/-bstevary-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/bstevary/)](https://www.facebook.com/bstevary/)
-[![Instagram: Stevary Bosuben](https://img.shields.io/badge/-bstevary-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/bstevary/)](https://www.instagram.com/bstevary)
-[![Youtube: bstevary](https://img.shields.io/badge/-bstevary-blue?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCjSpxsr1y25pqTxUQerrdPw/)](https://www.youtube.com/channel/UCjSpxsr1y25pqTxUQerrdPw)
+[![Facebook: Stevary Bosuben](https://img.shields.io/badge/-bstevary-bluesky?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/bstevary/)](https://www.facebook.com/bstevary/)
+[![Instagram: Stevary Bosuben](https://img.shields.io/badge/-bstevary-brown?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/bstevary/)](https://www.instagram.com/bstevary)
+[![Youtube: bstevary](https://img.shields.io/badge/-bstevary-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCjSpxsr1y25pqTxUQerrdPw/)](https://www.youtube.com/channel/UCjSpxsr1y25pqTxUQerrdPw)
 [![GitHub bstevary](https://img.shields.io/github/followers/bstevary?label=follow&style=social)](https://github.com/bstevary)
 - 🌱 I’m Software Engineering Student at Kisii Uiversity.
 - 👯 I’m looking to collaborate on any project.
