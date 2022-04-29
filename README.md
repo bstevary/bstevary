@@ -17,15 +17,11 @@
 [![Instagram: Stevary Bosuben](https://img.shields.io/badge/-bstevary-brown?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/bstevary/)](https://www.instagram.com/bstevary)
 [![Youtube: bstevary](https://img.shields.io/badge/-bstevary-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCjSpxsr1y25pqTxUQerrdPw/)](https://www.youtube.com/channel/UCjSpxsr1y25pqTxUQerrdPw)
 [![GitHub bstevary](https://img.shields.io/github/followers/bstevary?label=follow&style=social)](https://github.com/bstevary)
+[![GitHub bstevary](https://img.shields.io/facebook/followers/bstevary?label=follow&style=social)](https://facebook.com/bstevary)
 - 🌱 I’m Software Engineering Student at Kisii Uiversity.
 - 👯 I’m looking to collaborate on any project.
 - 💬 Ask me about any thing, be sure I'll be generous
 
-- ✨ youtube at https://www.youtube.com/channel/UCjSpxsr1y25pqTxUQerrdPw
-- ✨ twitter at https://twitter.com/bstevary
-- ✨ instagram at https://www.instagram.com/bstevary
-- ✨ linkedin at https://www.linkedin.com/in/bstevary
-- ✨ facebook at https://www.facebook.com/bstevary/
 
 
 ### Languages 💻 🌐
