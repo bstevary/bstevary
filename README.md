@@ -1,58 +1,50 @@
-<!---
-- 👋 Hi, I’m @bstevary
+### Hey there 👋 — I'm Stevary Bosuben
 
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on system development in java
+**Senior Software Engineer · FinTech · Nairobi, Kenya**
 
-<p align="center" height="20%">
-  <img src="https://github.com/bstevary/bstevary/blob/main/STEVARY.gif"   title="bstevary">
-</p>
+Building high-availability FinTech infrastructure — microservices, CI/CD pipelines, and cloud platforms that scale. Currently at **FanakaTech**, architecting distributed lending systems and DevOps workflows for East African markets.
 
---->
+---
 
-- 📫 Hi Iam Bstevary lets connect 
+#### 🔧 What I work with
 
-[![Twitter: Stevary Bosuben](https://img.shields.io/twitter/follow/bstevary?style=social)](https://twitter.com/bstevary)
-[![Linkedin: Stevary Bosuben](https://img.shields.io/badge/-bstevary-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bstevary/)](https://www.linkedin.com/in/bstevary/)
-[![Facebook: Stevary Bosuben](https://img.shields.io/badge/-bstevary-bluesky?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/bstevary/)](https://www.facebook.com/bstevary/)
-[![Instagram: Stevary Bosuben](https://img.shields.io/badge/-bstevary-brown?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/bstevary/)](https://www.instagram.com/bstevary)
-[![Whatsapp: Stevary Bosuben](https://img.shields.io/badge/-+254112446045-steal?style=flat-square&logo=Whatsapp&logoColor=white&link=https://wa.link/a5yo7u/)](https://wa.link/a5yo7u)
-[![Youtube: bstevary](https://img.shields.io/badge/-bstevary-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCjSpxsr1y25pqTxUQerrdPw/)](https://www.youtube.com/channel/UCjSpxsr1y25pqTxUQerrdPw)
-[![GitHub bstevary](https://img.shields.io/github/followers/bstevary?label=follow&style=social)](https://github.com/bstevary)
-- 🌱 I’m Software Engineering Student at Kisii Uiversity.
-- 👯 I’m looking to collaborate on any project.
-- 👀 I’m interested in Distributed Systems
-- 💬 Ask me about any thing, be sure I'll be generous
+**Backend & Systems**
+![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=Go&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
+![gRPC](https://img.shields.io/badge/-gRPC-4285F4?style=flat-square&logo=Google&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white)
 
+**Frontend**
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white)
 
+**DevOps & Cloud**
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=Terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white)
 
-### Languages and Framework 💻 🌐
-![Golang](https://img.shields.io/badge/-Golang-000?&logo=Go)
-![Typescript](https://img.shields.io/badge/-Typescript-000?&logo=Typescript)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![HTML5](https://img.shields.io/badge/-HTML-000?&logo=HTML5) 
-<br/>
-![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx) 
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
-![Tailwind](https://img.shields.io/badge/-TailwindCSS-000?&logo=TailwindCSS)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
-![Gin](https://img.shields.io/badge/-Gin-000?&logo=Gin)
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-### Platform and Tools ⚙️ 🖥
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
+---
 
+#### 🚀 Featured projects
 
-<a href="https://github.com/bstevary"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=bstevary&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bstevary&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+| Project | Stack | Status |
+|---|---|---|
+| [PSP Payment Gateway](https://github.com/bstevary) | Golang · RabbitMQ · AWS EKS · M-Pesa / Airtel / Equity | 🔨 In progress |
+| [HDMIS — Hospital SaaS](https://github.com/bstevary) | Golang · React · PostgreSQL · Redis | ✅ Live |
+| [Betty Linter Vim](https://github.com/bstevary) | C · VimScript | ⭐ 100+ stars |
 
-<a href="https://github.com/bstevary"><img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=bstevary&" alt="bstevary" /></a>
-<!---
-StevaryBosuben/StevaryBosuben is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+#### 📬 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bstevary/)
+[![Twitter / X](https://img.shields.io/badge/-@bstevary-000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/bstevary)
+[![Website](https://img.shields.io/badge/-bstevary.co.ke-333?style=flat-square&logo=Google-Chrome&logoColor=white)](https://www.bstevary.co.ke)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.link/a5yo7u)
